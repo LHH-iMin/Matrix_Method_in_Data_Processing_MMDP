@@ -1,4 +1,4 @@
-# Matrix_ethod_in_Data_Processing_MMDP
+# Matrix_Method_in_Data_Processing_MMDP
 中国科学院大学电子学院专业课-数据处理中的矩阵方法课程资料-耿修瑞老师
 
 炫耀一下，这门课我拿到了满分100分，哈哈哈！！！
