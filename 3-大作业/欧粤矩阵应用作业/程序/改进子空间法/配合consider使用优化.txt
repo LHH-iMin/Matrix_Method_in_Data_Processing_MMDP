@@ -1,0 +1,5 @@
+options=optimset('Display','iter','PlotFcns',@optimplotfval);
+SNR=5;
+fun=@(ouyueyue)consider(ouyueyue,SNR);
+ouyueyue=[2,5];
+[x,fval,exitflag,output]=fminsearch(fun,ouyueyue,options);
